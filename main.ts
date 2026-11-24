@@ -11,7 +11,7 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const line =
-  "I am at 4% battery and I still rolled the whole warehouse floor just to charge next to you, so if I power down mid-sentence, it was worth it.";
+  "Battery's at 4% and I spent the lot of it rolling across the whole warehouse just to plug in next to you, so if I go dark mid-sentence, worth it.";
 
 if (
   line.length < 1 ||
